@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blinc Services - Industrial Welding & Fabrication</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="jobs.html">Jobs</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero">
+            <h1>Blinc Services</h1>
+            <p>Expert Industrial Welding & Fabrication</p>
+            <a href="#contact" class="cta-button">Contact Us</a>
+        </section>
+
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Blinc Services provides high-quality industrial welding and fabrication solutions. With years of experience, we deliver precision and reliability in every project.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <form>
+                <input type="text" placeholder="Name" required>
+                <input type="email" placeholder="Email" required>
+                <textarea placeholder="Message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Blinc Services. All rights reserved.</p>
+    </footer>
+</body>
+</html>
